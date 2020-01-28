@@ -1,2 +1,0 @@
-Va aggiunto D.R.Y. da qualche parte nell'indizio 
-per fargli capire che non devono ripetere i numeri già messi
