@@ -1,12 +1,12 @@
-0b - Giardini di Montecavallo
 #3critto - Aventino
-Forth Riddle - Chiesa Nuova
-Di Nuovo - Abbey Theatre
-Breakfast - Piazza Trilussa
-Code - Vicolo delle Palle
-Numeravi - Fori Imperiali
-Opere - Teatro Argentina
-Phil - San Luigi dei Francesi
 #Poesiola - Tiburtina
-LSD - Pantheon
 #VP2 - Sede Avis
+1 Numeravi - Fori Imperiali
+2 0b - Giardini di Montecavallo
+3 Breakfast - Chiesa del Gesú
+4 Opere - Teatro Argentina
+5 LSD - Pantheon
+6 Phil - San Luigi dei Francesi
+7 Forth Riddle - Chiesa Nuova
+8 Di Nuovo - Abbey Theatre
+9 Code - Vicolo delle Palle
