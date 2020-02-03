@@ -1,12 +1,13 @@
 #3critto - Aventino
-#Poesiola - Tiburtina
+#Pig - Tiburtina
 #VP2 - Sede Avis
-1 Numeravi - Fori Imperiali
-2 0b - Giardini di Montecavallo
-3 Breakfast - Chiesa del Gesú
-4 Opere - Teatro Argentina
-5 LSD - Pantheon
-6 Phil - San Luigi dei Francesi
-7 Forth Riddle - Chiesa Nuova
-8 Di Nuovo - Abbey Theatre
-9 Code - Vicolo delle Palle
+1 Riscaldamento - circa Piazza del Grillo
+2 Numeravi - Fori Imperiali
+3 0b - Giardini di Montecavallo
+4 Breakfast - Chiesa del Gesú
+5 Opere - Teatro Argentina
+6 LSD - Pantheon
+7 Phil - San Luigi dei Francesi
+8 Forth Riddle - Chiesa Nuova
+9 Di Nuovo - Abbey Theatre
+10 Code - Vicolo delle Palle
