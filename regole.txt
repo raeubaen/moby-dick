@@ -1,0 +1,167 @@
+Regole della caccia
+
+
+Generalitá sugli indizi
+
+Gli indizi sono forniti dal comitato 
+uno alla volta. Non ci sono mai 
+momenti in cui una squadra deve 
+risolvere piú di 1 indizio.
+
+Tutti gli indizi hanno come soluzione
+un luogo a Roma.
+
+Molti indizi conducono ad un luogo
+in cui bisogna recarsi, rigorosamente
+all'interno delle Mura Aureliane.
+
+Alcuni indizi portano in luoghi
+piú periferici, in cui non bisogna
+recarsi.
+
+Il primo indizio verrá fornito
+contemporaneamente a tutte le squadre
+alle 21.00 del 7 marzo.
+
+Per gli indizi successivi la consegna
+avverrà una volta ricevuta prova di aver
+risolto il precedente indizio, con validazione
+del ragionamento da parte del comitato, e,
+se l'indizio lo prevede, di essersi recati
+con almeno metá dei componenti della squadra,
+nel luogo previsto dalla soluzione.
+
+Se l'indizio é contrassegnato
+dall'indicazione "Comitato sul Posto",
+squadra e comitato devono incontrarsi nel
+luogo previsto dalla soluzione.
+
+Se l'indizio é contrassegnato
+dall'indicazione "Video" la squadra deve inviare
+un video con l'esposizione completa
+del ragionamento in cui si fornisce
+prova di essersi recati nel luogo
+fornito dalla soluzione.
+Tale video viene inviato tramite apposito
+gruppo Telegram, posto in Silent Mode
+a 10 minuti.
+
+É prevista una pausa di 5 minuti tra
+un indizio e l'altro.
+Eventuali ritardi sulla consegna,
+quando inferiori a 2 minuti, sono
+da considerarsi involontari, non 
+contestabili e non recuperabili.
+
+
+Validazioni di ragionamenti e soluzioni
+
+Per agevolare la risoluzione degli
+indizi, é prevista un interazione
+tra squadre e comitato, denominata
+V.G.R. (Verde, Giallo, Rosso).
+
+Il V.G.R. consiste nella valutazione
+di un ragionamento elaborato da 
+una squadra e nell'indicazione
+di un segnale semaforico, con le seguenti
+convenzioni:
+- verde: il ragionamento é interamente 
+corretto e utile
+- giallo: il ragionamento é parzialmente
+corretto o utile
+- rosso: il ragionamento é interamente sbagliato o inutile
+
+I V.G.R. vengono inviati al comitato
+su un apposito gruppo telegram per ciascuna
+squadra, posto in Silent Mode, per cui
+é possibile inviare un V.G.R. ogni 5 minuti.
+
+Nel caso di V.G.R. giallo, il comitato
+reinvia alla squadra il proprio ragionamento
+grassettando i periodi che sono
+interamente corretti e utili alla soluzione.
+
+Non saranno considerati corretti periodi
+che abusano dei pronomi indefiniti,
+come "É un qualche tipo di cifrario", né
+periodi che sfruttano il trial-and-error,
+come "Il nome della canzone inizia per F".
+
+Nel caso di periodi ambigui o fraintendibili
+il comitato deciderá in completa 
+autonomia se grassettare o no:
+é cura delle squadre evitare che ciò
+accada.
+
+Gli indizi contengono spesso easter egg 
+e citazioni; qualora una squadra 
+ne scopra, é auspicabile che li inserisca
+in coda al V.G.R. segnalandone
+la presenza, che il comitato
+puó confermare o smentire.
+
+Sono previsti massimo 12 V.G.R. per 
+ciascun indizio.
+
+
+Interazioni con il comitato
+
+Alle squadre non é consentito
+avere altre interazioni con il
+comitato oltre ai V.G.R., tranne
+che nei seguenti casi:
+- Il comitato contatta una squadra
+per pareri su un indizio giá risolto
+- Una squadra e il comitato si incontrano
+fisicamente in maniera casuale
+- Per cause di forza maggiore
+- Nei casi in cui una squadra
+sospetti un errore nella stesura di
+un indizio tale da pregiudicare
+la soluzione dello stesso.
+Nel caso l'errore non ci sia, alla
+squadra vengono sottratti 5 V.G.R.,
+in un indizio a discrezione del comitato
+- Il comitato ritarda nella consegna
+di un indizio
+- Una squadra fornisce al comitato
+prova al comitato di aver raggiunto
+il luogo indicato da una soluzione
+- Nel caso di indizio con 
+etichetta "Comitato sul Posto"
+(comprendendo anche i contatti telefonici
+legati all'incontro), eccettuando
+ogni interazione relativa alla
+risoluzione degli indizi.
+
+
+Penalitá
+Il comitato puó assegnare penalità
+a una squadra per violazione delle
+regole o comportamento antisportivo.
+Le penalitá consistono nella
+sottrazione di V.G.R.
+
+
+Vittoria e Premi
+
+Vince la squadra che arriva per prima
+nel luogo fornito dalla soluzione
+dell'indizio finale, contrassegnato
+da apposita etichetta.
+
+Sono previsti ulteriori eventuali premi:
+- Vittoria Morale, per la squadra
+che avrebbe meritato anch'essa la vittoria
+- Miglior Cacciatore, per il cacciatore
+che si distingue nella risoluzione
+degli indizi con performance
+da fuoriclasse
+- Miglior Capitano, per il capitano
+che si distingue nella gestione della
+squadra e delle interazioni col comitato
+- Miglior Pescatore, per il cacciatore
+che si distingue nella scoperta di
+easter egg e citazioni all'interno
+degli indizi.
