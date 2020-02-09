@@ -121,7 +121,7 @@ sospetti un errore nella stesura di
 un indizio tale da pregiudicare
 la soluzione dello stesso.
 Nel caso l'errore non ci sia, alla
-squadra vengono sottratti 5 V.G.R.,
+squadra vengono sottratti 3 V.G.R.,
 in un indizio a discrezione del comitato
 - Il comitato ritarda nella consegna
 di un indizio
@@ -148,16 +148,13 @@ Vittoria e Premi
 
 Vince la squadra che arriva per prima
 nel luogo fornito dalla soluzione
-dell'indizio finale, contrassegnato
-da apposita etichetta.
+dell'indizio finale, che viene 
+esplicitamente segnalato come tale
+dal comitato.
 
 Sono previsti ulteriori eventuali premi:
 - Vittoria Morale, per la squadra
 che avrebbe meritato anch'essa la vittoria
-- Miglior Cacciatore, per il cacciatore
-che si distingue nella risoluzione
-degli indizi con performance
-da fuoriclasse
 - Miglior Capitano, per il capitano
 che si distingue nella gestione della
 squadra e delle interazioni col comitato
