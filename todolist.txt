@@ -15,3 +15,7 @@ Risolvere tutti gli indizi da capo
 Dire durante la caccia a tutte
 le squadre che sono seconde per mezz'ora
 ma dire al primo la veritá
+
+Aggiustare la D in numeravi - deve scendere di 1
+
+Testare il bot
