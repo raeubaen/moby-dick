@@ -19,3 +19,6 @@ ma dire al primo la veritá
 Aggiustare la D in numeravi - deve scendere di 1
 
 Testare il bot
+
+Aggiustare Forth Riddle, cambiare fermata
+Mandarli alla 77307
