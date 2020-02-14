@@ -1,0 +1,17 @@
+Si tratta di basi RNA.
+Esse vanno divise in triplette e decodificate.
+Infatti ogni tripletta (in questo caso)
+codifica un amminoacido, che si indica con
+una lettera dell'alfabeto in biologia.
+
+Decodificando (il sito dcode.fr puó aiutare)
+si ottengono i testi di due canzoni:
+Julia dei Beatles
+Balls di Olivia King
+
+Julia ricorda Via Giulia. Se si vuole interpretare
+anche Balls come una toponomastica si ottiene
+Vicolo delle Palle
+
+"Mettendo a sistema" si ottiene che la meta
+é l'incrocio tra le due strade.

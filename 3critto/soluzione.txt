@@ -1,0 +1,37 @@
+Il titolo fa pensare a 3 crittografie 
+da decifrare.
+La prima é la rot13, a cui si viene
+condotti dalle 13 ruote nell'immagine.
+Una volta decifrato il testo appare così:
+iloverono atinivid - noi.
+Il testo appare al contrario, rovesciandolo
+si ottiene:
+.ion - divinita onorevoli
+
+A questo punto mancano 2 crittografie,
+che si riconoscono essere di tipo enigmistico
+(grazie alla notazione con le parentesi sopra).
+
+La prima é
+(2 1'1 1, 4 1) = (10)
+.ion
+
+La soluzione (dal momento che in enigmistica
+il punto indica una lettera incognita),
+si trova capendo che la parola é SION,
+per cui la soluzione é:
+(se c'é S, sion é) = (secessione)
+
+La seconda crittografia é:
+(3 8)
+divinitá onorevoli
+
+La soluzione, trovando opportuni sinonimi, é:
+(dei deputati)
+
+Quindi si ha:
+secessione dei deputati
+che, ricordando le vicende del 1926,
+fa pensare all'Aventino.
+
+

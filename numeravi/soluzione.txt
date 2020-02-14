@@ -1,0 +1,22 @@
+Numeravi é il PERFETTO di NUMERO
+Cubui é il PERFETTO di CUBO
+Con un po' di fantasia si comprende
+che si intende "Numero perfetto" e 
+"Cubo perfetto".
+
+DRY é una sigla usata in informatica e sta per
+don't repeat yourself
+
+Quindi si inseriscono i numeri perfetti
+e i cubi perfetti (fino al 15°) all'interno
+del cruciverba.
+
+Si ottiene come frase finale: 
+INCIDEVIVIVI
+
+Al di lá del macabro significato letterale,
+un anagramma di questa stringa fornisce:
+"VENI VIDI VICI"
+
+La meta dell'indizio é quindi la statua
+di Giulio Cesare ai Fori.

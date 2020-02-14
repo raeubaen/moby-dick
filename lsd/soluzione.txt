@@ -1,0 +1,36 @@
+La canzone, che nel ritornello indica
+Ruben in the South with Albatros, sottintende
+(come si pensa che l'originale sottintenda LSD)
+la sigla RSA, celebre algoritmo cifrante
+asimmettico.
+
+Nel sorgente della pagina iniziale del sito
+c'é un commento che porta ad un'altra pagina,
+indizio.html
+
+Lí si scopre che l'alfabeto usato é
+quello italiano con l'aggiunta della J,
+per arrivare a 22 lettere.
+
+La chiave pubblica é (e=7, n=22), e si ha
+proprio n uguale al numero di lettere
+dell'alfabeto.
+
+Questo lascia intendere che le lettere vadano
+trasformate in numeri modulo 22 prima di
+applicare l'RSA, per cui A=0, B=1, ..., Z=21.
+
+Conoscendo la chiave pubblica si trova
+quella privata.
+n fa 22, dunque p e q sono 2 ed 11.
+Quindi λ(n) = φ(n) = 10,
+e si ha ed = 1 mod 10, per cui 
+d=3.
+
+La privata é dunque (3, 22).
+
+Decifrando (magari con l'ausilio del calcolatore
+in calc.html, nascosto nei commenti alla pagina)
+si ottiene: "quarantatre.quarantaquattro metri"
+che é pari all'altezza della cupola del Pantheon.
+
