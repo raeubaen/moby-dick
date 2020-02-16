@@ -32,12 +32,12 @@ con almeno metá dei componenti della squadra,
 nel luogo previsto dalla soluzione.
 
 Se l'indizio é contrassegnato
-dall'indicazione "Comitato sul Posto",
+dall'indicazione "Comitato sul Posto" (🏁),
 squadra e comitato devono incontrarsi nel
 luogo previsto dalla soluzione.
 
 Se l'indizio é contrassegnato
-dall'indicazione "Video" la squadra deve inviare
+dall'indicazione "Video" (📽) la squadra deve inviare
 un video con l'esposizione completa
 del ragionamento in cui si fornisce
 prova di essersi recati nel luogo
@@ -45,6 +45,10 @@ fornito dalla soluzione.
 Tale video viene inviato tramite apposito
 gruppo Telegram, posto in Silent Mode
 a 10 minuti.
+
+Se l'indizio é contrassegnato dall'indicazione
+"Telefono" (📱) non bisogna recarsi nel luogo
+fornito dalla soluzione.
 
 É prevista una pausa di 5 minuti tra
 un indizio e l'altro.
