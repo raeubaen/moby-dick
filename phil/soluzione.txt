@@ -8,9 +8,10 @@ Nei commenti nell'html si trova:
 "take the first"
 "1^1=0, 1^0=1, 0^1=1, 0^0=0"
 
+
 Questi fanno pensare che sia necessario
 trovare il primo verso modificato della 
-canzone "ti amo solo quando non sei al telefono"
+canzone, "ti amo solo quando non sei al telefono",
 e usarlo come chiave per decifrare col cifrario
 XOR.
 

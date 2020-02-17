@@ -1,17 +1,16 @@
 Il cuore dell'indizio é una specie di sciarada.
+Si parla di tre componenti di una parola o una frase.
+
 Il primo é Perno
 Il secondo é Terre
 Il terzo é Bibbia
 
-Si ha quindi:
-pernoterrebibbia
-
-Che si può spezzare in:
+Si ha quindi pernoterrebibbia, che si può spezzare in:
 perno ter rebibbia
 
 Per semplice assonanza (una volta
 riconosciuta la stazione Rebibbia)
-o proprio anagrammando si ottiene:
+o direttamente anagrammando si ottiene:
 Treno per Rebibbia
 
 La prima stazione in cui su una delle banchine

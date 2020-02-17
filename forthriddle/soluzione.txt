@@ -14,7 +14,7 @@ Queen.
 Si cercano 2 numeri nel testo,
 uno é Four, l'altro é One
 (For One Night).
-"For" si legge come 4 come suggerito
+"For" si legge come "Four" come suggerito
 dal nome del pdf, "Forth Riddle"
 
 Usando i due numeri come chiave,

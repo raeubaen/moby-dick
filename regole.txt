@@ -87,7 +87,7 @@ grassettando i periodi che sono
 interamente corretti e utili alla soluzione.
 
 Non saranno considerati corretti periodi
-che abusano dei pronomi indefiniti,
+che abusano di pronomi o aggettivi indefiniti,
 come "É un qualche tipo di cifrario", né
 periodi che sfruttano il trial-and-error,
 come "Il nome della canzone inizia per F".
