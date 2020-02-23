@@ -1,6 +1,7 @@
 La crittografia ha come soluzione
 a f fine -> affine
-Poiché la a e la f sono lettere "fine".
+Poiché la a e la f sono le uniche lettere
+non in grassetto ("fine").
 
 La parola affine in quest'ambito ricorda
 il cifrario affine, necessario per decifrare
@@ -8,7 +9,7 @@ la stringa in basso.
 
 Esso ha come chiave 2 numeri interi piccoli
 
-"Thank God It's Christmas" é una canzone dei
+"Thank God It's Christmas" è una canzone dei
 Queen.
 
 Si cercano 2 numeri nel testo,
@@ -19,7 +20,11 @@ dal nome del pdf, "Forth Riddle"
 
 Usando i due numeri come chiave,
 si decifra ottenendo:
-"Stopsettesettetrezerosette"
+"STOP \overline{LXXVII}CCCVII"
 
-La fermata 77307 dell'Atac é Corso/Minghetti,
+Ricordando che nella numerazione romana
+l'overline moltiplica il numero per mille, 
+si ottiene "STOP 77037".
+
+La fermata 77307 dell'Atac è Corso/Minghetti,
 che é la meta di quest'indizio
