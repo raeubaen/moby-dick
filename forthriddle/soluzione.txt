@@ -24,7 +24,7 @@ si decifra ottenendo:
 
 Ricordando che nella numerazione romana
 l'overline moltiplica il numero per mille, 
-si ottiene "STOP 77037".
+si ottiene "STOP 77307".
 
 La fermata 77307 dell'Atac è Corso/Minghetti,
 che é la meta di quest'indizio
