@@ -1,0 +1,45 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen,multicol,pifont,epsfig,latexsym,amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[italian]{babel}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage[T1]{fontenc}
+\usepackage{multirow}
+\usepackage{verbatim}
+
+\title{Triplice Crittografia}
+\author{\it Serverus}
+\date{}
+
+\begin{document}
+
+\maketitle
+\begin{center}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\includegraphics[width=0.15\columnwidth]{rot.jpg}
+\end{figure}
+\end{center}
+\begin{center}
+vybirebab ngvavivq - {\color{blue}abv.}   $\leftarrow$\\
+\vspace{1cm}
+$\rightarrow$  {\color{blue} (2 1'1 1 4 1) = (10)} - (3 8)
+\end{center}
+\end{document}
