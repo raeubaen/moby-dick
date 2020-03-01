@@ -1,0 +1,121 @@
+% NB: DEVO ANCORA FINIRE DI SCRIVERLO, ATTENZIONE IN CASO VOGLIATE MODIFICARE
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen,multicol,pifont,epsfig,latexsym,amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[italian]{babel}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{multirow}
+\usepackage{verbatim}
+\title{
+Ladies and gentlemen, ecco a voi un Magico What-if!\\\vspace{0.3cm}
+\large 28 Importanti Fatti}
+
+\author{\it Lucifero}
+
+\date{}
+
+\begin{document}
+
+\maketitle
+\begin{center}
+{\large ATTO I\\}
+\end{center}
+{\bf Paul (entrando in scena trafelato)}: Buongiorno! Buongiorno!\\
+{\bf John}: Era ora! Ci fosse un giorno nella vita che arrivi in orario! Sentiamo, perché questo ritardo?\\
+{\bf P}: Eh... pensavo... che l'appuntamento fosse a Penny Lane...\\
+{\bf J}: Certo, come no... ogni volta casualmente sbagli posto e poi devi attraversare l'intero universo per arrivare a quello giusto!\\
+{\bf P}: Andiamo John, non posso certo arrivare volando!\\
+{\bf George (sottovoce mentre continua la discussione)}: Eccoli che ricominciano... Ahhh, sarà una lunga, lunga, lunga giornata. Che ne pensi, Ringo?\\
+{\bf Ringo (accennando una risata)}: Tutto ciò di cui avete bisogno è amore, fratello!\\
+{\bf G}: ... certo.
+\begin{center}
+{\bf Si suona, mettetevi insieme.\\}
+\end{center}
+\vspace{0.3cm}
+\begin{center}
+{\large ATTO II\\}
+\end{center}
+{\bf P}: Ma poi scusate, per quale motivo siamo qui? Io ho lasciato una cosetta in sospeso con l'amabile Rita, quindi se non servo...\\
+{\bf J}: Sì che servi, dobbiamo fare una foto... e poi guardati, neanche hai messo le scarpe!\\
+{\bf P}: Ne avevo prese un paio, ma la mia cara Martha ci ha fatto i bisogni sopra.\\
+{\bf J}: Ma che schifo!\\
+{\bf P}: Sai, devo dire che il bianco ti dona! A proposito George, di che colore avete preso il vestito per me?\\
+{\bf G}: Per te blu... però le scarpe non le abbiamo, magari puoi fare un salto a comp...\\
+{\bf P}: Fa niente, faccio senza!\\
+{\bf J}: Oh, Khrishna...\\
+{\bf G}: Dai ragazzi, non litigate, sta uscendo il sole! Sei contento, Ringo?\\
+{\bf R (barcollando)}: Sì... sì!\\
+{\bf G}: Uhm...
+\begin{center}
+{\bf Si suona qualcosa.\\}
+\end{center}
+\vspace{0.3cm}
+\newpage
+\begin{center}
+{\large ATTO III\\}
+\end{center}
+{\bf P}: Ma poi perché in mezzo alla strada?\\
+{\bf G}: È stata un'idea di Ringo. Quando abbiamo proposto la foto, ha urlato "PERCHÈ NON LO FACCIAMO IN STRADA?!"\\
+{\bf P}: Oh... e... aspetta, perché si è messo lo smoking?\\
+{\bf J}: Fai troppe domande Paul! Piuttosto, perché stai fumando?\\
+{\bf P}: Ehhh... uh, guarda! Un merlo!\\
+{\bf J}: Sì, certo... devi smettere di fumare.\\
+{\bf P}: Lo farò, giuro.\\
+{\bf J}: Intendo adesso...\\
+{\bf P}: Dopo la foto, dai.\\
+{\bf G}: Che poi ancora non mi spiego perché a voi abbiano dato vestiti eleganti e a me una giacca di jeans... Ringo, tu ne sai qualcosa?\\
+{\bf R (con lo sguardo perso nel vuoto)}: ...\\
+{\bf G}: ... Ringo?\\
+{\bf R (con lo sguardo poco sveglio)}: ...\\
+{\bf G}: Ringo!\\
+{\bf R (sobbalza)}\\
+{\bf G}: Tutto bene?\\
+{\bf R}: Amico... vorrei tanto essere in un giardino di polpi...\\
+{\bf G}: Cos...\\
+{\bf R (cantando a bassa voce)}: ... con un piccolo aiuto da parte dei miei amici!\\
+\begin{center}
+{\bf Si suona l'argenteo martello.\\}
+\end{center}
+\vspace{0.3cm}
+\begin{center}
+{\large ATTO IV\\}
+\end{center}
+{\bf P}: Ma per quanto tempo dobbiamo stare fermi così?\\
+{\bf J}: Paul, per Shiva! Fai un sacco di domande!\\
+{\bf P}: Lo dico per la circolazione, va bene che stiamo sulle strisce, però...\\
+{\bf J}: Vedi forse macchine?\\
+{\bf P}: Beh sì, ad esempio là c'è un maggiolino...\\
+{\bf J}: Quello è parcheggiato! E tra l'altro andrebbe nella direzione opposta!\\
+{\bf P}: "Lestofante! Meraviglioso Woofer! 28 Incredibili Frittelle!".\\
+{\bf J}: ... ma ti si è rivoltato il cervello?\\
+{\bf P}: No, no... cioè, forse... sai, a forza di Lucy in the Sky with Diamonds...\\
+{\bf G}: Mamma mia, state uno peggio dell'altro... Ringo, fingi almeno un'espressione seria...\\
+{\bf R (stonando)}: WE ALL LIVE IN A YELLOW SUBMARINEEEE...\\
+\begin{center}
+{\bf Oh, caro! Si suona!\\}
+\end{center}
+\vspace{0.3cm}
+\newpage
+\begin{center}
+{\large ATTO IV\\}
+\end{center}
+
+[...]
+
+\begin{center}
+{\bf take = make\\}
+\end{center}
+
+
+
+
+
+\end{document}
