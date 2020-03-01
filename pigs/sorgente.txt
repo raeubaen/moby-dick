@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen,multicol,pifont,epsfig,latexsym,amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[italian]{babel}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{multirow}
+\usepackage{verbatim}
+\title{Hey you, Whitehouse...}
+\author{\it Serverus}
+\date{}
+\begin{document}
+\maketitle
+\begin{center}
+Cacciatore che vai nella notte in branco,\\
+arresta il tuo mezzo laddove ti canto.\\
+\vspace{0.4cm}
+Salendo, sul bordo del passo,\\
+per la prima volta leggi sol la frase oscura.\\
+\vspace{0.4cm}
+Il suo primo è un centro di importanza capitale,\\
+oltre a garantire la rotoidale.\\
+\vspace{0.4cm}
+La seconda sono almeno due, \\
+del fuoco, di lavoro e santa.\\
+\vspace{0.4cm}
+La terza ha un vecchio e un nuovo,\\ 
+parla di vecchio con la barba bianca.\\
+\end{center}
+
+
+\end{document}
