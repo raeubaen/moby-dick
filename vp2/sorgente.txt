@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Voli Pindarici II}
+\author{\it Lucifero}
+\date{}
+
+\begin{document}
+
+\maketitle
+\begin{center}
+Cerca tra i quattro più noti (che sono stati) quello che riunì le aurore e i fulmini (che tutt'ora sono).\\
+Questo (o almeno, un suo omonimo) viene volontariamente imprigionato insieme ai suoi rossi compagni in attesa di un nuovo padrone.\\
+Potresti (e dovresti!) essere tu a decidere su un tale destino.\\
+Cerca quindi tra coloro che in tale arte non lucrano quelli che l'alfabeto vuole in cima, e che chiudono la propria sigla con latina forza.\\
+Trova quindi la loro casa tra i figli di Troia, ma non recartici: troveresti chiuso!\\
+
+\end{center}
+\end{document}
