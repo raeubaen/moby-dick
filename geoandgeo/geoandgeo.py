@@ -23,7 +23,6 @@ places = {
     "Piazza S.Pietro": np.array([10, 0]),
 }
 
-l = lambda z: z[0]
 focus_sx = places["Castel S.Angelo"]
 focus_dx = places["Piazza S.Pietro"]
 
@@ -31,15 +30,15 @@ cent = center(focus_sx, focus_dx)
 c = focal_semidist(focus_sx, focus_dx)
 a = 8
 
-fig,ax = plt.subplots()
+letters = "fuocodestro"
 
-N = 100
+N = 11
 th_min = 2*math.pi/N
 x, y = [], []
 for i in range(N):
     p = ellisse(i*th_min, a, c, cent)
-    print(f"{p[0]} {p[1]}")
+    print(f"{letters[i]}: {p[0]} {p[1]}")
     x.append(p[0])
     y.append(p[1])
-plt.plot(x, y)
+plt.plot(x, y, "o")
 plt.show()
