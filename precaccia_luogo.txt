@@ -1,15 +1,20 @@
 Crittografie Pure
 
-Nella piazza alla fine di
+Nella piazza all'inizio di
+
+"Strada della Collina"
 DELGUTALE
 (3 3 2 6) = (3 3 8)
 
-Vicino al
+vicino al
+
+"Un mappamondo latino, siculamente"
 c.l.s
 (5 2 1) = (8)
 
-Alle:
+alle
+
+"Programma di approfondimento giornalistico"
 E/2 E/2 E/2 E/2 E/2 E/2 E/2 E/2
 (4 1 5)
-
 
