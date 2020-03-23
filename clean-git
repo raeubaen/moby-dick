@@ -1,4 +1,4 @@
-export TO_REMOVE="deepfake/*"
+export TO_REMOVE="regole/*"
 
 git filter-branch --tag-name-filter cat --index-filter 'git rm -r --cached --ignore-unmatch $TO_REMOVE' --prune-empty -f -- --all
 
