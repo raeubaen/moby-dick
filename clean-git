@@ -1,4 +1,4 @@
-export TO_REMOVE="video_regole/*"
+export TO_REMOVE="video-regole/*"
 
 git filter-branch --tag-name-filter cat --index-filter 'git rm -r --cached --ignore-unmatch $TO_REMOVE' --prune-empty -f -- --all
 
