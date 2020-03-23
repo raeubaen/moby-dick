@@ -1,18 +1,16 @@
-LONTANO,NO TEMA,ELIMINABILE,Tempo max,Titolo,Soluzione,Autore,Note,Stima Orario
-,,,,,,,,
-,*,,01:30, Numeravi , Fori Imperiali , Serverus/Glutenboi/Nemesi,,10:30
-,,,00:45, Raffreddore , Fontana di Trevi , Serverus,,11:00
-,,,01:30, Forth Riddle , Chiesa Nuova , Lucifero,,00.00
-,*,,00:45, Breakfast , Chiesa del Gesú , Serverus,,00:30
-,,,02:00, LSD , Pantheon , Serverus,,02:15
-,,,01:00,ABACAB, Piazza Navona , Glutenboi,,03:00
-#,*,,01:30, 3critto , Aventino , Serverus,,04:00
-,,,01:00, Phil , San Luigi dei Francesi , Serverus,chiarifica xor,04:30
-#,,,01:00, Pigs , Tiburtina , Serverus,,05:00
-,,,01:00,WhatIf, Abbey Theatre , Lucifero,,05:30
-#,*,,01:00, VP2 , Sede Avis , Lucifero,,06:00
-,,*,00:45, Code , Vicolo delle Palle , Serverus,,06:30
-,*,,,,,,,
-,,,,Final Deepfake , Castel S.Angelo , Lucifero/Serverus/Glutenboi,,
-,,,,,,,,
-,,,15:15,,,,,
+NO TEMA,Tempo max,Titolo,Soluzione
+,,,
+*,01:30, Numeravi , Fori Imperiali 
+,00:45, Raffreddore , Fontana di Trevi 
+,01:30, Forth Riddle , Chiesa Nuova 
+*,00:45, Breakfast , Chiesa del Gesú 
+,02:00, LSD , Pantheon 
+,01:00:00,HominesCognomines,Gianicolo
+*,01:00,ABACAB, Piazza Navona 
+,01:30, 3critto , Aventino 
+,01:00, Phil , San Luigi dei Francesi 
+,01:00, Pigs , Tiburtina 
+*,01:00,WhatIf, Abbey Theatre 
+,01:00, VP2 , Sede Avis 
+,00:45, Code , Vicolo delle Palle 
+,15:15,,
