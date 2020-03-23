@@ -1,8 +1,8 @@
-export TO_REMOVE="video-regole/fadeInOut.flv"
+export TO_REMOVE="raffreddore/raffreddore.mp4"
 
 git filter-branch --tag-name-filter cat --index-filter 'git rm -r --cached --ignore-unmatch $TO_REMOVE' --prune-empty -f -- --all
 
-export TO_REMOVE="0b/*"
+export TO_REMOVE="gdrive/*"
 
 git filter-branch --tag-name-filter cat --index-filter 'git rm -r --cached --ignore-unmatch $TO_REMOVE' --prune-empty -f -- --all
 
