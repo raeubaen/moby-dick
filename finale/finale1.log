@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  24 MAR 2020 21:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  24 MAR 2020 20:45
 entering extended mode
-**./precaccia.tex
-(precaccia.tex
+**./finale1.tex
+(finale1.tex
 LaTeX2e <2018-12-01>
 (/home/ruben/.miktex/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -156,66 +156,44 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-(/home/ruben/.miktex/texmfs/install/tex/latex/textpos/textpos.sty
-Package: textpos 2019/04/15 v1.9.1
+No file finale1.aux.
+\openout1 = `finale1.aux'.
 
-Package: textpos 2019/04/15 1.9.1, absolute positioning of text on the page
-(/home/ruben/.miktex/texmfs/install/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-)
-\TP@textbox=\box29
-\TP@holdbox=\box30
-\TPHorizModule=\dimen115
-\TPVertModule=\dimen116
-\TP@margin=\dimen117
-\TP@absmargin=\dimen118
-
-Grid set 16 x 16 = 37.34424pt x 52.81541pt
-\TPboxrulesize=\dimen119
-\TP@ox=\dimen120
-\TP@oy=\dimen121
-\TP@tbargs=\toks22
-\TP@prevdepth=\dimen122
-TextBlockOrigin set to 0pt x 0pt
-) (precaccia.aux)
-\openout1 = `precaccia.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Info: Redefining \it@ocap on input line 16.
-LaTeX Info: Redefining \it@ccap on input line 16.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Info: Redefining \it@ocap on input line 8.
+LaTeX Info: Redefining \it@ccap on input line 8.
 
 File italian.ldf warning: 
 italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 16.
+italian.ldf    on input line 8.
 
 (/home/ruben/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
-\scratchdimen=\dimen123
-\scratchbox=\box31
+\scratchdimen=\dimen115
+\scratchbox=\box29
 \nofMPsegments=\count107
 \nofMParguments=\count108
-\everyMPshowfont=\toks23
+\everyMPshowfont=\toks22
 \MPscratchCnt=\count109
-\MPscratchDim=\dimen124
+\MPscratchDim=\dimen116
 \MPnumerator=\count110
 \makeMPintoPDFobject=\count111
-\everyMPtoPDFconversion=\toks24
+\everyMPtoPDFconversion=\toks23
 ) (/home/ruben/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -264,60 +242,22 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
-ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+) [1
 
-(/home/ruben/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
-
-(/home/ruben/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
-
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 27--37
-[] 
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 44--55
-[] 
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 60--70
-[] 
- []
-
-[1
-
-{/home/ruben/.miktex/texmfs/data/pdftex/config/pdftex.map}] (precaccia.aux) ) 
+{/home/ruben/.miktex/texmfs/data/pdftex/config/pdftex.map}] (finale1.aux) ) 
 Here is how much of TeX's memory you used:
- 3409 strings out of 494865
- 45297 string characters out of 3178317
- 118134 words of memory out of 3000000
- 6999 multiletter control sequences out of 15000+200000
- 11530 words of font info for 45 fonts, out of 3000000 for 9000
+ 3247 strings out of 494865
+ 42683 string characters out of 3178317
+ 114602 words of memory out of 3000000
+ 6868 multiletter control sequences out of 15000+200000
+ 3938 words of font info for 15 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 47i,6n,25p,796b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
-</
-home/ruben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></ho
-me/ruben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home
-/ruben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on precaccia.pdf (1 page, 37169 bytes).
+ 47i,4n,25p,794b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
+</ho
+me/ruben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on finale1.pdf (1 page, 14818 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 10 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

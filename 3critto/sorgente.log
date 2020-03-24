@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  23 MAR 2020 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  24 MAR 2020 21:06
 entering extended mode
 **./sorgente.tex
 (sorgente.tex
@@ -185,18 +185,18 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 ) (sorgente.aux)
 \openout1 = `sorgente.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -232,8 +232,8 @@ LaTeX Font Info:    ... okay on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \it@ocap on input line 16.
-LaTeX Info: Redefining \it@ccap on input line 16.
+LaTeX Info: Redefining \it@ocap on input line 17.
+LaTeX Info: Redefining \it@ccap on input line 17.
 (/home/ruben/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
@@ -290,20 +290,12 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
+(Font)              <12> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
-
-
-LaTeX Warning: No \author given.
-
+(Font)              <6> on input line 19.
 <file.png, id=1, 225.84375pt x 225.84375pt>
-File: file.png Graphic file (type png)
-<use file.png>
-Package pdftex.def Info: file.png  used on input line 23.
-(pdftex.def)             Requested size: 64.49806pt x 64.49709pt.
 File: file.png Graphic file (type png)
 <use file.png>
 Package pdftex.def Info: file.png  used on input line 24.
@@ -352,29 +344,35 @@ File: file.png Graphic file (type png)
 <use file.png>
 Package pdftex.def Info: file.png  used on input line 35.
 (pdftex.def)             Requested size: 64.49806pt x 64.49709pt.
+File: file.png Graphic file (type png)
+<use file.png>
+Package pdftex.def Info: file.png  used on input line 36.
+(pdftex.def)             Requested size: 64.49806pt x 64.49709pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 39.
+(Font)              <5> on input line 40.
+
 [1
 
 {/home/ruben/.miktex/texmfs/data/pdftex/config/pdftex.map} <./file.png>]
 (sorgente.aux) ) 
 Here is how much of TeX's memory you used:
  3821 strings out of 494865
- 50830 string characters out of 3178317
- 132834 words of memory out of 3000000
+ 50866 string characters out of 3178317
+ 132829 words of memory out of 3000000
  7417 multiletter control sequences out of 15000+200000
  8671 words of font info for 26 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  46i,6n,35p,796b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/ruben/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/d
 pi600/ecrm1000.pk> </home/ruben/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec
-/dpi600/ecrm1728.pk></home/ruben/.miktex/texmfs/install/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb>
-Output written on sorgente.pdf (1 page, 31675 bytes).
+/dpi600/ecrm1200.pk> </home/ruben/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/
+ec/dpi600/ecrm1728.pk></home/ruben/.miktex/texmfs/install/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb>
+Output written on sorgente.pdf (1 page, 34211 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
