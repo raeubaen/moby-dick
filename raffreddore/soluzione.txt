@@ -1,0 +1,22 @@
+La stringa fornita è l'identificativo di un video du Youtube(basta cercarla su google).
+
+Il video è il trailer del musical Across the Universe, ispirato ai Beatles.
+
+Per accorgersene, si potevano cercare su google attori o altre info contenute nel video,
+oppure bastava catturare una schermata del video e cercarla con google immagini.
+
+Si vede inoltre che il trailer si ferma nel momento in cui, nel video originale,
+viene visualizzato il nome del film.
+
+A questo punto, bisogna quindi usare Across the Universe per risolvere il resto dell'indizio.
+
+La soluzione dell'Impiccato
+con gli underscore é: JAI GURU DEVA OM
+ossia le parole piú famose della canzone.
+
+Prendendo le lettere indicate dai numeri si ha:
+Ja, mordacci dua, vai a Drevi
+
+Ricordando che il titolo dell'indizio é
+Raffreddore, si sostituisce T a D,
+per cui la meta é la Fontana di Trevi.

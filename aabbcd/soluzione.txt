@@ -3,9 +3,18 @@ da Brain Power di Noma.
 Riarrangiando le lettere di Noma si arriva all'Oman.
 Riarrangiando Fexi nello stesso modo
 si ottiene EXIF.
+
+N O M A
+F E X I
+
+-> -> 
+
+O M A N
+E X I F
+
 Analizzando i dati exif dell'immagine allegata,
 si ottiene un testo cifrato con Cesare 
 (Cremonini nella foto).
 
-Una volta decifrato si viene condotti 
-a Piazza Navona.
+Una volta decifrato si viene condotti a una citazione 
+scritta a proposito Piazza Navona.

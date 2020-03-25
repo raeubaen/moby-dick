@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{ifthen,multicol,pifont,epsfig,latexsym,amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[italian]{babel}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{multirow}
+\usepackage{verbatim}
+\title{Si va in scena!}
+\author{\it Lucifero}
+\date{}
+\begin{document}
+\maketitle
+\begin{center}
+La prima è l'ultima del primo detto.\\
+\vspace{.3cm}
+La seconda è l'aggettivo, in una galassia lontana, di ciò che avvenne "senza ragione" nell'epitaffio del Re Cremisi.\\
+\vspace{.3cm}
+La terza non è una lei, ma un lui. È romano, fortunato, ma anche odioso, e pur essendo primo, non è il primo\footnote{No ragazzi, non è Carlo...}.
+\end{center}
+
+
+\end{document}

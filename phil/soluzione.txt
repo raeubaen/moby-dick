@@ -1,13 +1,11 @@
 La canzone é una cover di Diabolik dei
 Tutti Fenomeni.
 
-
 Nei commenti nell'html si trova:
 "What've i changed"
 "find my own verses"
 "take the first"
 "1^1=0, 1^0=1, 0^1=1, 0^0=0"
-
 
 Questi fanno pensare che sia necessario
 trovare il primo verso modificato della 

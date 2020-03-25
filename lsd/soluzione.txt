@@ -8,6 +8,10 @@ Nel sorgente della pagina iniziale del sito
 c'é un commento che porta ad un'altra pagina,
 indizio.html
 
+La password della pagina è uguale al nome del file,
+lisergic
+(l'acido dell'lsd n.b.)
+
 Lí si scopre che l'alfabeto usato é
 quello italiano con l'aggiunta della J,
 per arrivare a 22 lettere.
@@ -19,6 +23,9 @@ dell'alfabeto.
 Questo lascia intendere che le lettere vadano
 trasformate in numeri modulo 22 prima di
 applicare l'RSA, per cui A=0, B=1, ..., Z=21.
+
+Il fatto che A=0 e non 1 si vede dal messaggio
+"A0 che paranoico" nella chat.
 
 Conoscendo la chiave pubblica si trova
 quella privata.

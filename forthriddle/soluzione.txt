@@ -16,7 +16,12 @@ Si cercano 2 numeri nel testo,
 uno é Four, l'altro é One
 (For One Night).
 "For" si legge come "Four" come suggerito
-dal nome del pdf, "Forth Riddle"
+dal nome del pdf, "Forth Riddle",
+che è il 4° indizio della caccia.
+
+A questo punto A = 4, B = 1
+
+Ma A++ -> a = 5
 
 Usando i due numeri come chiave,
 si decifra ottenendo:

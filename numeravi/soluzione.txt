@@ -1,15 +1,20 @@
+Il file di chiama paradigmatic,
+quindi vanno guardati i paradigmi di qualcosa.
+
+Guardando i paradigmi di numeravi e cubui scopro che:
 Numeravi é il PERFETTO di NUMERO
 Cubui é il PERFETTO di CUBO
+
 Con un po' di fantasia si comprende
 che si intende "Numero perfetto" e 
 "Cubo perfetto".
 
-DRY é una sigla usata in informatica e sta per
+D.R.Y. é una sigla usata in informatica e sta per
 don't repeat yourself
 
 Quindi si inseriscono i numeri perfetti
 e i cubi perfetti (fino al 15°) all'interno
-del cruciverba.
+del cruciverba, senza ripetersi.
 
 Si ottiene come frase finale: 
 INCIDEVIVIVI
