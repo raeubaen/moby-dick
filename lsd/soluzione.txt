@@ -2,7 +2,7 @@ La canzone, che nel ritornello indica
 Ruben in the South with Albatros, sottintende
 (come si pensa che l'originale sottintenda LSD)
 la sigla RSA, celebre algoritmo cifrante
-asimmettico.
+asimmetrico.
 
 Nel sorgente della pagina iniziale del sito
 c'é un commento che porta ad un'altra pagina,
