@@ -1,0 +1,27 @@
+Nella pagina html indicata sono visibili
+tanti 1 e 0.
+Osservando bene si vede che gli 1 formano delle lettere.
+
+Il testo che si forma è:
+If. 18 25-33
+
+Con un po' di cultura si interpreta:
+"Inferno, canto 18, versi 25-33"
+
+Inoltre, ad aiutare, nel CSS del codice è presente:
+background-color: black; //come opportuno giù nell'If.
+
+Per cui si pensa a If. come Inferno.
+
+Per visualizzare come immagine gli 0 e 1 dell'indizio
+con un po' di ragionamento
+si può pensare una soluzione "casereccia" usando Excel
+(altrimenti con Python si fa in 2 righe):
+- Apro notepad, sostituisco "0" con "0;" e "1" con "1;" salvo come .csv
+- Apro il file con excel
+- Avrò un 1 o 0 in ogni cella
+- Rendo tutte le celle quadrate, diminuisco lo zoom
+- Applico formattazione condizionale così da colorare le celle con 1
+
+Si procede ancora più velocemente se si possiede un programma che automaticamente
+colora le parole trovate (quasi tutti i programmi di text editing ormai)

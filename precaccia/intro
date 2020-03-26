@@ -1,0 +1,66 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\title{Precaccia}
+\date{}
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+\subsection*{A cosa serve il precaccia?}
+
+\begin{itemize}
+
+  \item A collaudare il meccanismo di comunicazione comitato/squadra (leggasi: fare i gruppi telegram)
+  \item A collaudare il meccanismo di comunicazione interno alle squadre (leggasi: fare i gruppi whatsapp/telegram)
+  \item A spratichirvi sulle crittografie enigmistiche
+
+\end{itemize}
+
+\subsection*{Come funziona il precaccia? F.A.Q.}
+\begin{itemize}
+  \item Ci saranno i VGR? \\
+   Si, ma probabilmente ad orari strampalati il comitato dorme
+
+  \item Come funzionano i VGR?\\
+   In maniera molto flessibile e poco fiscale, perché siamo buoni, ma solo per questo precaccia.\\
+    Per evitare prevedibili abusi ci sarà un gruppo telegram in Silent Mode a 5 minuti. 
+    Invito i capitani a contattarmi (3772622016) su Telegram così da poterli inserire.
+
+  \item Va risolto individualmente o come squadra?\\
+   Come squadra
+
+  \item Che succede se una squadra lo risolve prima delle altre?\\
+   Vince 10 minuti di anticipo sulle altre. Riceverà il primo indizio 10 minuti prima.
+
+  \item Cosa mi serve per risolvere?\\
+   Cultura, cervello ed esperienza. Se non sapete proprio dove mettere le mani, forse Google può aiutare.
+
+  \item Gli indizi della caccia saranno così? \\
+   Non direi, ma qualche crittografia ci è scappata.
+  \end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
