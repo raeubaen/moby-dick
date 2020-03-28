@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  24 MAR 2020 21:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  28 MAR 2020 16:09
 entering extended mode
 **./vp2.tex
 (vp2.tex
@@ -54,11 +54,11 @@ Here is how much of TeX's memory you used:
  3965 multiletter control sequences out of 15000+200000
  5150 words of font info for 19 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 22i,6n,19p,154b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 22i,6n,19p,147b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
 </home/r
 uben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/rub
 en/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on vp2.pdf (1 page, 24880 bytes).
+Output written on vp2.pdf (1 page, 24881 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
